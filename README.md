@@ -1,4 +1,4 @@
-# Water-Quality-analsis-with-XAI
+# Water-Quality-analysis-with-XAI
 ### (2022, Science of The Total Environment) Interpretation of ensemble learning to predict water quality using explainable artificial intelligence
 
 Water quality analysis and interpretation using explainable artificial intelligence in python
